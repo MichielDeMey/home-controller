@@ -1,0 +1,13 @@
+{
+	"Tasks": [
+		"xc"
+	],
+	"BuildConstraints": "linux,arm",
+  "PackageVersion": "0.1.0",
+	"TaskSettings": {
+		"xc": {
+			"GOARM": "5"
+		}
+	},
+	"ConfigVersion": "0.9"
+}
